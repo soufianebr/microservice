@@ -1,0 +1,12 @@
+com\authentication\service\implementations\AccountServiceImpl.class
+com\authentication\repository\UserRepository.class
+com\authentication\controller\UserController.class
+com\authentication\security\SecurityParams.class
+com\authentication\model\AuthUser.class
+com\authentication\security\JWTAuthenticationFilter.class
+com\authentication\Application.class
+com\authentication\security\SecurityConfig.class
+com\authentication\service\interfaces\AccountService.class
+com\authentication\security\JWTAuthorizationFiler.class
+com\authentication\controller\UserForm.class
+com\authentication\security\UserDetailsServiceImpl.class

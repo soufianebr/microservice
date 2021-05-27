@@ -1,0 +1,11 @@
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\service\interfaces\AccountService.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\Application.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\repository\UserRepository.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\security\JWTAuthorizationFiler.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\service\implementations\AccountServiceImpl.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\model\AuthUser.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\security\SecurityParams.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\controller\UserController.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\security\SecurityConfig.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\security\UserDetailsServiceImpl.java
+C:\Users\soufiane.berkane\Desktop\trainings\src\main\java\com\authentication\security\JWTAuthenticationFilter.java
